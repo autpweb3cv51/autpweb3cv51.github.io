@@ -8,5 +8,5 @@ firebase.initializeApp({
   storageBucket: "autpweb.appspot.com",
   messagingSenderId: "629103536755",
   appId: "1:629103536755:web:e23e8e59a949314af6d806",
-  measurementId: "G-60DTENZ39J
+  measurementId: "G-60DTENZ39J"
     });
